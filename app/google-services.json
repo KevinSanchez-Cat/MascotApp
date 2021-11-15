@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760810468991",
+    "project_id": "mascotapp-55670",
+    "storage_bucket": "mascotapp-55670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760810468991:android:a87fc4eb5656ba9cb2b14a",
+        "android_client_info": {
+          "package_name": "com.programacion.fragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760810468991-g1upukadblrutrm4ak4kt59t1e1nuc2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programacion.fragments",
+            "certificate_hash": "32d34a2adec211b6ab58ac81c1b728094607d75c"
+          }
+        },
+        {
+          "client_id": "760810468991-kbdj8jiee1kl6stajjrqoc69bql1qdva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFugEYgkVSjKAGUZ2FDm8GQ0mTdAOWcRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760810468991-kbdj8jiee1kl6stajjrqoc69bql1qdva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

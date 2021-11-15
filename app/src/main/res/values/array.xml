@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sx">
+        <item>Seleccione el sexo</item>
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+    <string-array name="veterinarioARRAY">
+        <item>Seleccione el veterinario</item>
+        <item>Juan Alvarez</item>
+        <item>Jose Juarez</item>
+        <item>Monica Perez</item>
+        <item>Ricardo Huertas</item>
+        <item>Veronica De la Luz</item>
+    </string-array>
+    <string-array name="especie">
+        <item>Seleccione la especie</item>
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Loro</item>
+        <item>Gamster</item>
+        <item>Tortuga</item>
+        <item>Iguana</item>
+        <item>Caballo</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="opc0">
+        <item>No se ha seleccionado</item>
+    </string-array>
+    <string-array name="opc1">
+        <item>Seleccione una raza</item>
+        <item>Rottwailler</item>
+        <item>Chow Chow</item>
+        <item>Chihuahua</item>
+        <item>Pastor Aleman</item>
+        <item>Labrador retriever</item>
+        <item>Husky siberiano</item>
+        <item>Poodle</item>
+        <item>Bulldog</item>
+        <item>Terrier Americano</item>
+        <item>Pomerania</item>
+        <item>Pug</item>
+        <item>Shiba Inu</item>
+        <item>Doberman</item>
+        <item>Dachshund</item>
+        <item>Shih Tzu</item>
+        <item>Bichón maltés</item>
+        <item>Boyero de Berna</item>
+        <item>Samoyedo</item>
+        <item>Gran danés</item>
+        <item>Mastín italiano</item>
+        <item>Pastor persa</item>
+        <item>Boxer</item>
+        <item>Maltipoo</item>
+        <item>Galgo inglés</item>
+        <item>Bichón frisé</item>
+        <item>American bully</item>
+        <item>Bull terrier</item>
+        <item>Cocker spaniel inglés</item>
+        <item>Terranova</item>
+        <item>Pinscher</item>
+        <item>San Bernardo</item>
+        <item>Labradoodle</item>
+        <item>Dálmata</item>
+        <item>Papillón</item>
+        <item>Shar pei</item>
+        <item>Pekinés</item>
+        <item>Afgano</item>
+        <item>Boston terrier</item>
+        <item>Pekinés</item>
+        <item>Cockapoo</item>
+        <item>Kangal</item>
+        <item>Shiba inu</item>
+        <item>Jindo</item>
+        <item>Indog</item>
+        <item>Akita</item>
+    </string-array>
+
+    <string-array name="opc2">
+        <item>Seleccione una raza</item>
+        <item>Ingles</item>
+        <item>Persa</item>
+        <item>Bengala</item>
+        <item>Maine Coon</item>
+        <item>Esfinge</item>
+        <item>Britsh Shorthair</item>
+        <item>Siamés</item>
+        <item>Ragdoll</item>
+        <item>Munchickin</item>
+        <item>Bosque de noruega</item>
+        <item>Escosés</item>
+        <item>Savannah</item>
+        <item>Siberiano</item>
+        <item>Turco</item>
+        <item>Azul ruso</item>
+        <item>Himalayo</item>
+        <item>Europeo pelo corto</item>
+        <item>Americano pelo corto</item>
+        <item>Oriental</item>
+        <item>Birmano</item>
+        <item>Abisino</item>
+        <item>Toyger</item>
+        <item>Ragamuffin</item>
+        <item>Bombay</item>
+        <item>Kinkalow</item>
+        <item>Búrmes</item>
+        <item>Somalí</item>
+        <item>Hbana brown</item>
+        <item>Manx</item>
+        <item>Britanico pelo largo</item>
+        <item>Korat</item>
+        <item>LaPerm</item>
+        <item>Balinés</item>
+        <item>Ocicat</item>
+        <item>Comish rex</item>
+        <item>Selkirk rex</item>
+        <item>Burmilla</item>
+        <item>Cymric</item>
+        <item>Egipcia</item>
+        <item>Irlandes</item>
+    </string-array>
+</resources>

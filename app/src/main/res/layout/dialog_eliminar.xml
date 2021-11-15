@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/drawable_btns"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="24dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="¿Estas seguro de eliminar este registro?"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textElemento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="ID: Mascota"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="145dp"
+            tools:layout_editor_absoluteY="189dp" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:alpha="0.8"
+        android:background="@color/grey" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btnDiagSi"
+            style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="@string/txtEliminarDefinitivamente"
+            android:textColor="@color/grey" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_height="0.7dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:alpha="0.8"
+            android:background="@color/grey" />
+
+        <Button
+            android:id="@+id/btnDiagSiPap"
+            style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="@string/txtEnviarPapelera"
+            android:textColor="@color/grey" />
+
+        <View
+            android:layout_height="0.7dp"
+            android:layout_width="match_parent"
+            android:alpha="0.8"
+            android:background="@color/grey" />
+
+        <Button
+            android:id="@+id/btnDiagNo"
+            style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="Cancelar"
+            android:textColor="@color/primaryDarkColor"
+            tools:ignore="TouchTargetSizeCheck" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

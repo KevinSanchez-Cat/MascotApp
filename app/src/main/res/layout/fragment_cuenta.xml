@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.cuenta.CuentaFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="214dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="13dp">
+
+            <!--  app:civ_border_color="@color/primaryColor"
+                app:civ_border_width="4dp"-->
+            <de.hdodenhof.circleimageview.CircleImageView
+
+                android:id="@+id/imgCuentaFoto"
+                android:layout_width="197dp"
+                android:layout_height="162dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:contentDescription="@string/txtDescImg"
+                android:outlineAmbientShadowColor="@color/black"
+                android:outlineSpotShadowColor="@color/black"
+                android:src="@drawable/ic_baseline_pets_24"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fBtnCuentaFoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:clickable="true"
+                android:src="@drawable/ic_menu_camera"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/imgCuentaFoto"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <fragment
+            android:id="@+id/fragmenDatos"
+            android:name="com.programacion.fragments.ListaCuentaFragment"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"/>
+
+        <!---
+
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal"
+             android:layout_marginBottom="0dp"
+             android:layout_marginTop="45dp">
+             <TextView
+                 android:layout_width="240dp"
+                 android:layout_height="wrap_content"
+                 android:text="Nombre:"
+                 android:textColor="@color/primaryColor"
+                 android:textSize="20sp"
+                 android:textStyle="bold"
+                 android:layout_weight="1"/>
+             <TextView
+                 android:id="@+id/txtCuentaNombre"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="1"
+                 android:text="@string/txtVarAutor"
+                 android:textColor="@color/grey"
+                 android:textSize="20sp"
+                 android:textStyle="bold" />
+         </LinearLayout>
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal"
+             android:layout_marginTop="6dp"
+             android:layout_marginBottom="0dp">
+             <TextView
+                 android:layout_width="240dp"
+                 android:layout_height="wrap_content"
+                 android:text="Email:"
+                 android:textColor="@color/primaryColor"
+                 android:textSize="20sp"
+                 android:textStyle="bold"
+                 android:layout_weight="1"/>
+             <TextView
+                 android:id="@+id/txtCuentaEmail"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="1"
+                 android:text="@string/txtVarAutor"
+                 android:textColor="@color/grey"
+                 android:textSize="20sp"
+                 android:textStyle="bold" />
+         </LinearLayout>
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal"
+             android:layout_marginTop="6dp"
+             android:layout_marginBottom="15dp">
+             <TextView
+                 android:layout_width="240dp"
+                 android:layout_height="wrap_content"
+                 android:text="Teléfono:"
+                 android:textColor="@color/primaryColor"
+                 android:textSize="20sp"
+                 android:textStyle="bold"
+                 android:layout_weight="1"/>
+             <TextView
+                 android:id="@+id/txtCuentaFecha"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="1"
+                 android:text="@string/txtVarAutor"
+                 android:textColor="@color/grey"
+                 android:textSize="20sp"
+                 android:textStyle="bold" />
+         </LinearLayout>
+        -->
+        <Button
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="Cambiar contraseña"
+            app:strokeColor="@color/primaryColor" />
+
+        <Button
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Eliminar cuenta"
+            android:textColor="@color/danger"
+            app:strokeColor="@color/danger" />
+    </LinearLayout>
+</ScrollView>

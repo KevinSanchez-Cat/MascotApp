@@ -1,0 +1,383 @@
+<resources>
+    <string name="app_name">MascotApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MascotApp </string>
+    <string name="nav_header_subtitle">Programación movil</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Salir</string>
+    <string name="web_client_id">760810468991-kbdj8jiee1kl6stajjrqoc69bql1qdva.apps.googleusercontent.com</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_cuenta">Cuenta</string>
+    <string name="menu_registrar">Registrar mascota</string>
+    <string name="menu_editar">Editar mascota</string>
+    <string name="menu_consultar">Consultar mascota</string>
+    <string name="menu_acerca">Créditos</string>
+    <string name="menu_eliminar">Eliminar mascota</string>
+    <string name="menu_buscar">Buscar mascota</string>
+    <string name="menu_papelera">Papelera</string>
+
+    <string name="txtBienvenida">Bienvenido</string>
+    <string name="txtInicioSession">Iniciar sesión</string>
+    <string name="txtRegistro">Registrar</string>
+    <string name="txtOlvidasteContras">¿Olvidaste tu contraseña?</string>
+    <string name="txtAunNoTienesCuenta">¿Aún no tienes cuenta?</string>
+    <string name="txtCrearCuenta">Crea una</string>
+    <string name="txtIngreseUsuario">Ingrese el usuario o email</string>
+    <string name="txtIngreseEmail">Correo electronico</string>
+    <string name="txtIngreseContrasena">Ingrese la contraseña</string>
+
+    <string name="txtNuevaCuenta">Nueva cuenta</string>
+    <string name="txtYaTienesCuenta">¿Ya tienes cuenta?</string>
+    <string name="txtIniciaSesion">Inicia sessión</string>
+    <string name="txtRegistrate">Registrate</string>
+    <string name="txtNombreUsuario">Nombre</string>
+    <string name="txtApellidoUsuario">Apellido</string>
+    <string name="txtConfirmeContrasena">Confirme la contraseña</string>
+    <string name="txtTerminosYcondiciones">He leído y acepto los Terminos y Condiciones de uso</string>
+
+    <string name="txtRegistrar">Nueva mascota</string>
+    <string name="txtEstatus">Estatus</string>
+    <string name="txtEnviarPapelera">Enviar a la papelera</string>
+    <string name="txtQuitarPapelera">Restaurar elemento</string>
+    <string name="txtEliminarDefinitivamente">Eliminar definitivamente</string>
+    <string name="txtEstatusActivo">Activo</string>
+    <string name="txtEstatusInactivo">Inactivo</string>
+    <string name="txtID">ID</string>
+    <string name="txtNombreMascota">Nombre de la mascota</string>
+    <string name="txtNombrePropietario">Nombre del propietario</string>
+    <string name="txtDireccion">Dirección</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtEmail">e-mail</string>
+    <string name="txtEspecie">Especie</string>
+    <string name="txtGato">Gato</string>
+    <string name="txtPerro">Perro</string>
+    <string name="txtOtro">Otro</string>
+    <string name="txtNacimiento">Fecha de nacimiento</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="txtMacho">Macho</string>
+    <string name="txtHembra">Hembra</string>
+    <string name="txtRaza">Raza</string>
+    <string name="txtColor">Color</string>
+    <string name="txtParticulidades">Señas particulares</string>
+
+    <string name="txtDescripcion">Foto del animal</string>
+    <string name="txtDescImg">Imagen</string>
+
+    <string name="txtVeterinario">Médico Veterinario</string>
+
+    <string name="txtAceptar">Aceptar</string>
+    <string name="txtEditMascota">Editar mascota</string>
+    <string name="txtEliminarMascota">Eliminar mascota</string>
+    <string name="txtBuscaMascota">Buscar mascota</string>
+    <string name="txtPapelera">Papelera</string>
+    <string name="txtBusqueda">Buscar mascota</string>
+    <string name="txtIngreseBuscaMascota">Ingrese el ID de mascota para buscar</string>
+    <string name="txtIngreseBuscaMascotaNomb">Ingrese el nombre de mascota para filtrar</string>
+    <string name="txtDetMascota">Detalle de la mascota</string>
+    <string name="txtConsultar">Mascotas</string>
+
+    <string name="txtCreditos">Créditos</string>
+    <string name="txtAutor">Autor:</string>
+    <string name="txtVarAutor">Sanchez Valdin Kevin Ivan</string>
+    <string name="txtMateria">Materia:</string>
+    <string name="txtVarMateria">Programación móvil</string>
+    <string name="txtCarrera">Carrera:</string>
+    <string name="txtVarCarrera">Ingeniería en Sistemas Computacionales</string>
+    <string name="txtUniversidad">Universidad:</string>
+    <string name="txtVarUniversidad">Instituto Tecnologico de Toluca</string>
+    <string name="txtPeriodo">Periodo:</string>
+    <string name="txtVarPeriodo">Junio-Diciembre 2021</string>
+    <string name="txtVersion">Version:</string>
+    <string name="txtVarVersion">1.2.47</string>
+    <string name="txtMaestra">Maestra:</string>
+    <string name="txtVarMaestra">Elizabeth Pulido Alba</string>
+
+    <string name="txtLimpiar">Limpiar</string>
+    <string name="txtGuardar">Guardar</string>
+    <string name="txtCancelar">Cancelar</string>
+    <string name="txtEliminar">Eliminar</string>
+    <string name="txtEditar">Editar</string>
+    <string name="txtVer">Ver</string>
+    <string name="txtNuestoEquipo">Equipo especializado</string>
+    <string name="txtMacotasFelices">Mascotas felices</string>
+    <string name="txtDerechos">Copyright &#169; Todos los derechos reservados  | MascotApp&amp;2021</string>
+    <string name="txtInicio">Veterinaria 24hr</string>
+    <string name="txtDesc">
+        Nuestro equipo médico está conformado por médicos <b>veterinarios zootecnistas certificados</b>
+        y profesionales que se actualizan día a día en las diversas técnicas y tratamientos para
+        el cuidado de su mascota, para proporcionarle a cada paciente la atención
+        clínica veterinaria que se merecen.
+    </string>
+
+
+    <string name="txtInfoID">ID: </string>
+    <string name="txtInfoNombreMascota">Nombre de la mascota: </string>
+    <string name="txtInfoNombrePropietario">Nombre del propietario: </string>
+    <string name="txtInfoDireccion">Dirección: </string>
+    <string name="txtInfoTelefono">Telefono: </string>
+    <string name="txtInfoEmail">e-mail: </string>
+    <string name="txtInfoEspecie">Especie: </string>
+    <string name="txtInfoNacimiento">Fecha de Nacimiento: </string>
+    <string name="txtInfoSexo">Sexo: </string>
+    <string name="txtInfoRaza">Raza: </string>
+    <string name="txtInfoColor">Color: </string>
+    <string name="txtInfoParticulidades">Señas particulares: </string>
+    <string name="txtInfoVeterinario">Veterinario: </string>
+
+    <string name="txtInfoEjmID">id</string>
+    <string name="txtInfoEjmNombreMascota">nombre de la mascota</string>
+    <string name="txtInfoEjmNombrePropietario">nombre del propietario</string>
+    <string name="txtInfoEjmDireccion">dirección</string>
+    <string name="txtInfoEjmTelefono">telefono</string>
+    <string name="txtInfoEjmEmail">e-mail</string>
+    <string name="txtInfoEjmEspecie">especie</string>
+    <string name="txtInfoEjmNacimiento">fecha del nacimiento</string>
+    <string name="txtInfoEjmSexo">sexo</string>
+    <string name="txtInfoEjmRaza">raza</string>
+    <string name="txtInfoEjmColor">color</string>
+    <string name="txtInfoEjmParticulidades">particularidades</string>
+    <string name="txtInfoEjmVeterinario">nombre del veterinario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtRecuperarContrasenia">Recuperar contraseña</string>
+    <string name="txtIngreseEmailRecuperar">Se enviará un correo para  recuperar la contraseña</string>
+    <string name="txtEnviar">Enviar correo</string>
+    <string name="txtEmailRecuperar">Ingrese el correo eléctronico</string>
+    <string name="Terminos1">1.  Estos Términos  y  Condiciones  de  Uso  regulan  las  reglas  a  que  se  sujeta  la  utilización  de  la   APP MascotApp
+        (en  adelante,  la  APP),  que  puede  descargarse  desde  el dominio .<b>SofTec</b>  La  descarga  o  utilización  de  la  APP  atribuye
+        la  condición  de  Usuario  a  quien  lo  haga  e implica  la  aceptación  de  todas las  condiciones  incluidas  en  este   documento 
+        y  en  la  Política  de  Privacidad  y  el Aviso  Legal  de  dicha  página  Web.  El Usuario  debería  leer  estas condiciones  cada  
+        vez  que  utilice  la  APP,  ya  que  podrían  ser   modificadas  en  lo  sucesivo. 
+        <br />
+        <br /></string>
+    <string name="Terminos2">
+        2.  Únicamente los  Usuarios  expresamente autorizados  
+        por  <b>SofTec</b> podrán  acceder  a  la   descarga  y  uso  de  la  APP.  Los  Usuarios  que  no  dispongan  de  autorización,  no  
+        podrán  acceder   a  dicho contenido. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos3">
+        3.  Cargos:  eres  responsable  del pago  de  todos  los  costes  o  gastos  en  los  que  incurras 
+        como  resultado  de descargar  y  usar  la  Aplicación  de  <b>SofTec</b>,  incluido  cualquier  cargo  de  red  de  operador  o
+        itinerancia.  Consulta  con  tu  proveedor  de  servicios  los  detalles  al respecto. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos4">
+        4.  Estadísticas anónimas: <b>SofTec</b>  se 
+        reserva  el derecho  a  realizar  un  seguimiento  de  tu actividad  en  la  Aplicación  de  y  a  informar  de  ello  a  nuestros 
+        proveedores  de  servicios  estadísticos  de terceros.  Todo  ello  de  forma  anónima. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos5">
+        5.  Protección  de  tu  información  personal:
+        queremos  ayudarte a  llevar  a  cabo  todos  los  pasos  necesarios para  proteger  tu  privacidad  e información.  Consulta  la 
+        Política  de  privacidad  de  <b>SofTec</b> y  los avisos  sobre  privacidad  de  la  Aplicación  para  conocer  qué  tipo  de 
+        información  recopilamos  y  las medidas que  tomamos  para  proteger  tu  información  personal. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos6">
+        6.  Queda  prohibido  alterar  o 
+        modificar  ninguna  parte de  la  APP  a  de  los  contenidas de  la   misma,  eludir, desactivar  o  manipular  de  cualquier  otra
+        forma  (o  tratar  de  eludir,  desactivar  o   manipular)  las funciones  de  seguridad  u  otras  funciones  del programa  y 
+        utilizar  la  APP  o  sus  contenidos  para  un  fin comercial o  publicitario.  Queda  prohibido  el uso  de  la  APP  con  la  
+        finalidad  de  lesionar  bienes, derechos  o  intereses  de   <b>SofTec</b> o  de  terceros.  Queda  igualmente prohibido  realizar
+        cualquier  otro  uso  que  altere,  dañe  o   inutilice  las  redes,  servidores,  equipos,  productos  y  programas informáticos  
+        de  <b>SofTec</b> o  de   terceros. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos7">
+        7.  La APP  y  sus  contenidos  (textos,  fotografías,  gráficos,  imágenes,  tecnología,  software, 
+        links,   contenidos,  diseño  gráfico,  código  fuente,  etc.),  así como  las  marcas  y  demás  signos  distintivos  son propiedad 
+        de  <b>SofTec</b> o  de  terceros,  no  adquiriendo  el Usuario  ningún  derecho  sobre  ellos  por  el mero  uso  de  la  APP.  El 
+        Usuario,  deberá  abstenerse  de:   a)  Reproducir,  copiar,  distribuir,  poner  a  disposición  de   terceros,  comunicar
+        públicamente, transformar  o  modificar  la  APP  o  sus contenidos,  salvo  en   los  casos  contemplados  en  la  ley  o 
+        expresamente  autorizados  por  <b>SofTec</b> o  por  el titular  de   dichos  derechos. b)  Reproducir o  copiar  para  uso  
+        privado  la  APP  o  sus contenidos,  así como   comunicarlos públicamente o  ponerlos  a  disposición  de  terceros  cuando 
+        ello  conlleve  su   reproducción. c)  Extraer  o  reutilizar  todo  o  parte sustancial de  los  contenidos  integrantes  de  la 
+        APP. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos8">
+        8.  Con sujeción  a  las  condiciones  establecidas  en  el apartado  anterior,  <b>SofTec</b> concede  al Usuario  una   licencia 
+        de  uso  de  la  APP,  no  exclusiva,  gratuita,  para  uso  personal,  circunscrita  al territorio  nacional   y  
+        con  carácter indefinido.  Dicha  licencia  se  concede  también  en  los  mismos términos  con  respecto  a   las 
+        actualizaciones  y  mejoras  que  se  realizasen  en  la  aplicación.  Dichas licencias  de  uso  podrán  ser   revocadas por
+        <b>SofTec</b>  unilateralmente  en  cualquier  momento, mediante la  mera  notificación  al Usuario. 
+        <br />
+        <br />
+    </string>
+    <string name="Terminos9">
+        9.  Corresponde  al Usuario,  
+        en  todo  caso,  disponer  de  herramientas  adecuadas para  la   detección  y desinfección  de  programas  maliciosos  o  cualquier 
+        otro  elemento  informático   dañino. <b>SofTec</b> no  se  responsabiliza  de  los  daños  producidos  a  equipos  informáticos 
+        durante el   uso de  la  APP.  Igualmente,  <b>SofTec</b> no  será  responsable  de  los  daños  producidos  a  los  Usuarios  cuando 
+        dichos  daños  tengan  su  origen  en  fallos  o  desconexiones  en  las  redes  de   telecomunicaciones que  interrumpan  el servicio.
+        <br />
+        <br />
+    </string>
+    <string name="Terminos10">
+        10.  IMPORTANTE: Podemos,  sin  que  esto  suponga  ninguna  obligación  contigo,  modificar  estas Condiciones  de  uso  sin  avisar 
+        en  cualquier  momento.  Si continúas utilizando  la  aplicación  una  vez realizada  cualquier  modificación  en  estas  Condiciones  
+        de  uso,  esa  utilización  continuada  constituirá  la aceptación  por  tu  parte de  tales  modificaciones.  Si no  aceptas  estas 
+        condiciones  de  uso  ni  aceptas quedar  sujeto  a  ellas,  no  debes  utilizar  la  aplicación  ni descargar  o  utilizar  cualquier 
+        software relacionado.  El uso  que  hagas  de  la  aplicación  queda  bajo  tu  única  responsabilidad.  No  tenemos responsabilidad  
+        alguna  por  la  eliminación  o  la  incapacidad  de  almacenar  o  trasmitir  cualquier contenido  u  otra  información  mantenida  o
+        trasmitida  por  la  aplicación.  No  somos  responsables  de  la precisión  o  la  fiabilidad  de  cualquier  información  o  consejo  
+        trasmitidos  a  través  de  la  aplicación. Podemos,  en  cualquier  momento,  limitar  o  interrumpir tu  uso  a  nuestra  única 
+        discreción.  Hasta  el máximo  que  permite la  ley,  en  ningún  caso  seremos  responsables  por  cualquier  pérdida  o 
+        daño relacionados. 11.  El Usuario  se  compromete a  hacer un  uso  correcto  de  la  APP,  de  conformidad  con  la  Ley, 
+        con   los presentes  Términos  y  Condiciones  de  Uso  y  con  las  demás  reglamentos  e instrucciones  que,  en   su caso,
+        pudieran  ser  de  aplicación  El Usuario  responderá  frente a  <b>SofTec</b> y  frente  a  terceros de   cualesquiera  daños 
+        o  perjuicios  que  pudieran  causarse  por  incumplimiento  de  estas  obligaciones. 12.  Estos  Términos  y  Condiciones  de  
+        Uso  se  rigen  íntegramente  por  la  legislación  española.  Para  la  resolución  de  cualquier  conflicto  relativo  a  su  
+        interpretación  o  aplicación,  el Usuario  se  somete  expresamente  a  la  jurisdicción  de  los  tribunales. 
+
+    </string>
+    <string name="Politicas">"De  conformidad  con  el  Reglamento  (UE)  2016/679,  del  Parlamento  Europeo  y  del  Consejo,  de 27  de  abril  de  2016,  relativo  a la  protección  de  las  personas  físicas  en  lo  que  respecta  al  tratamiento  de datos  personales  y  a  la  libre  circulación  de  estos datos  (Reglamento  General  de  Protección  de  Datos  -  RGPD), <b>SofTec</b>,  informa a los  usuarios  de  la aplicación  <b>MascotApp</b>  (en  adelante,  la  Aplicación),  acerca del  tratamiento  de  los  datos  personales,  que  ellos voluntariamente hayan  facilitado  durante  el  proceso  de  registro,acceso  y  utilización  del  servicio. "</string>
+    <string name="identificacion">"<b>SofTec</b>,  con  CIF/NIF  nº:  SOFTEC0918R23  y  domicilio  a  efectos  de  notificacionesen: México, Toluca. Metepec, Calle Ext: Lazaro Cardenas #0932,  e  inscrita  en  el  Registro  Mercantil  de Derechos Intelectuales del Autor  Tomo  IV,Folio  AVSD-9876234-112H,  Sección 3ª,  Hoja  972232723 ,  inscripción  ª  (en  adelante,  el  Responsable  del  Tratamiento),es  la  entidad responsable  del  tratamiento  de  los  datos  facilitados  por  los  clientes  de  la  Aplicación  (en  adelante,el/los  Usuario/s). "</string>
+    <string name="finalidad">"Para  proceder  al  registro,  acceso  y  posterior  uso  de  la  Aplicación,  el  Usuario  deberá  facilitar-de  forma  voluntaria-,  datos  de carácter  personal  (esencialmente,  identificativos  y  de  contacto),  los  cuales  seránincorporados  a  soportes  automatizados titularidad  de  <b>SofTec</b> La  recogida,  almacenamiento,  modificación,  estructuracióny  en  su  caso,  eliminación,  de  los  datos  proporcionados  por  los Usuarios,  constituirán  operaciones  de  tratamiento  llevadasa  cabo  por  el  Responsable,  con  la  finalidad  de  garantizar  el correcto  funcionamiento  de  la  Aplicación,  mantener  larelación  de  prestación  de  servicios  y/o  comercial  con  el  Usuario,  y para  la  gestión,  administración,  información,prestación  y  mejora  del  servicio. Los  datos  personales  facilitados  por  el  Usuario  -especialmente,  el  correo  electrónicoo  e-mail-  podrán  emplearse  también para  remitir  boletines  (newsletters),  así  como  comunicaciones  comerciales  de  promociones y/o  publicidad  de  la  Aplicación, siempre  y  cuando,  el  Usuario  haya  prestado  previamente  su  consentimiento  expreso  parala  recepción  de  estas comunicaciones  vía  electrónica. "</string>
+    <string name="legitimidad">"El  tratamiento  de  los  datos  del  Usuario,  se  realiza  con  las  siguientes  bases  jurídicas  que legitiman  el  mismo: •  La solicitud  de  información  y/o  la  contratación  de  los  servicios  de  la  Aplicación,  cuyos  términos  y condiciones  se pondrán  a  disposición  del  Usuario  en  todo  caso,  con  carácter previo,  para  su  expresa  aceptación. •  El consentimiento libre,  específico,  informado  e inequívoco  del  Usuario,  poniendo  a  su  disposición  la  presente política de  privacidad,  que  deberá aceptar  mediante una  declaración  o  una  clara  acción  afirmativa,  como  el  marcado  de  una casilla  dispuesta  al  efecto. En  caso de  que  el  Usuario  no  facilite  a  <b>SofTec</b>  sus  datos,  o  lo  haga  de  forma  errónea  o  incompleta,  no  será  posible proceder al  uso  de  la  Aplicación. "</string>
+    <string name="conservacion">Los  datos  personales  proporcionados  por  el  Usuario,  se  conservarán  en  los  sistemas  y  bases  de  datos  del    Responsable  del Tratamiento,  mientras  aquél  continúe  haciendo  uso  de  la  Aplicación,  y  siempre  que  no  solicite su  supresión. Con  el  objetivo  de depurar  las  posibles  responsabilidades  derivadas  del  tratamiento,  los  datos  se  conservarán  por  un  período mínimo  de  cinco  años.
+    </string>
+    <string name="destinatarios">"Los  datos  no  se  comunicarán  a  ningún  tercero  ajeno  a  <b>SofTec</b>,  salvo  obligación  legal  o  en cualquier  caso,  previa solicitud  del  consentimiento  del  Usuario. De  otra  parte,  <b>SofTec</b>  podrá  dar  acceso  o  transmitirlos  datos  personales  facilitados  por  el  Usuario,  a  terceros proveedores  de  servicios,  con  los  que  haya  suscrito  acuerdos  de encargo  de  tratamiento  de  datos,  y  que  únicamente  accedan a  dicha  información  para  prestar  un  servicio  en  favor  y  por  cuenta del  Responsable. "</string>
+    <string name="retencion">"<b>SofTec</b>,  informa  al  Usuario  de  que,  como  prestador  de  servicio  de  alojamiento  de  datos  y  en  virtud de  lo establecido  en  la  Ley  34/2002  de  11  de  julio  de  Servicios  de  la  Sociedad  de  la  Información  y  de  Comercio  Electrónico (LSSI), retiene  por  un  período  máximo  de  12  meses  la  información  imprescindible  para  identificar  el  origen  de  los  datos  alojados y  el momento  en  que  se  inició  la  prestación  del  servicio. La  retención  de  estos  datos  no  afecta  al  secreto  de  las  comunicaciones y  sólo  podrán  ser  utilizados  en  el  marco  de  una investigación  criminal  o  para  la  salvaguardia  de  la  seguridad  pública,  poniéndose a  disposición  de  los  jueces  y/o  tribunales  o del  Ministerio  que  así  los  requiera. La  comunicación  de  datos  a  las  Fuerzas  y  Cuerpos de  Seguridad  del  Estado,  se  hará  en  virtud  de  lo  dispuesto  por  la  normativa sobre  protección  de  datos  personales,  y  bajo  el máximo  respeto  a  la  misma. "</string>
+    <string name="proteccion">"El  Responsable  del  Tratamiento,  adopta  las  medidas  necesarias  para  garantizar  la  seguridad,  integridad  y confidencialidad  de los  datos  conforme  a  lo  dispuesto  en  el  Reglamento  (UE)  2016/679  del  Parlamento  Europeo  y  del  Consejo, de  27  de  abril  de 2016,  relativo  a  la  protección  de  las  personas  físicas  en  lo  que  respecta  al  tratamiento  de  datos personales  y  a  la  libre circulación  de  los  mismos. Si  bien  el  Responsable,  realiza  copias  de  seguridad  de  los  contenidos alojados  en  sus  servidores,  sin  embargo  no  se responsabiliza  de  la  pérdida  o  el  borrado  accidental  de  los  datos  por  parte  de  los  Usuarios.  Deigual  manera,  no  garantiza  la reposición  total  de  los  datos  borrados  por  los  Usuarios,  ya  que  los  citados  datos  podrían  haber  sido  suprimidos y/o modificados  durante el  periodo  de  tiempo  transcurrido  desde  la  última  copia  de  seguridad. Los  servicios  facilitados  o  prestados  a  través  de la  Aplicación,  excepto  los  servicios  específicos  de  backup,  no  incluyen  la reposición  de  los  contenidos  conservados  en  las  copias  de  seguridad realizadas  por  el  Responsable  del  Tratamiento,  cuando esta  pérdida  sea  imputable  al  usuario;  en  este  caso,  se  determinará  una  tarifa  acorde  a la  complejidad  y  volumen  de  la recuperación,  siempre  previa  aceptación  del  usuario.  La  reposición  de  datos  borrados  sólo  está  incluida  en  el precio  del servicio  cuando  la  pérdida  del  contenido  sea  debida  a  causas atribuibles  al  Responsable. "</string>
+    <string name="ejercicio">"<b>SofTec</b>,  informa  al  Usuario  de  que  le  asisten  los  derechos  de  acceso,  rectificación,  limitación, supresión,  oposición y  portabilidad,  los  cuales  podrá  ejercitar  mediante petición  dirigida  al    correo  electrónico:  softecCorporation@softec.com.mx. Asimismo, el  Usuario  tiene  derecho  a  revocar  el  consentimiento  inicialmente  prestado,  y  a  interponer  reclamaciones  de derechos  frente a  la  Agencia  Española de  Protección  de  Datos  (AEPD). "</string>
+    <string name="comunicaciones">"En  aplicación  de  la  LSSI  (Ley  de  Servicios  de  la  Sociedad  de  la  Información),  <b>SofTec</b>,  no enviará  comunicaciones publicitarias  o  promocionales  por  correo  electrónico  u  otro  medio  de  comunicación  electrónica  equivalente que  previamente no  hubieran  sido  solicitadas o  expresamente  autorizadas por  los  destinatarios  de  las  mismas. En  el  caso  de usuarios  con  los  que  exista  una  relación  contractual,  jurídica  o  de  servicios  previa,  el  Responsable  del Tratamiento,  sí  está autorizado  al  envío  de  comunicaciones  comerciales  referentes  a  productos  o  servicios  del  Responsable que  sean  similares  a  los que  inicialmente  fueron  objeto  de  contratación  con  el  cliente. En  caso  de  que  el  Usuario  quiera  darse  de  baja  a  la  hora  de recibir  las  citadas  comunicaciones,  podrá  hacerlo  remitiendo  su voluntad  por  e-mail  al  correo  electrónico:  softecCorporation@softec.com.mx. "</string>
+    <string name="txtPhone">Teléfono</string>
+    <string name="txtVerinarios">Veterinarios</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="menu_veterinarios">Veterinarios</string>
+    <string name="txtAgregarVeterinario">Agregar veterinario</string>
+    <string name="txtEditarVeterinario">Editar veterinario</string>
+    <string name="txtEliminarVeterinario">Eliminar veterinario</string>
+    <string name="txtConsultarVeterinario">Información del veterinario</string>
+    <string name="txtNombreVeterinario">Nombre del verinario</string>
+    <string name="txtEdiarNombreUsuario">Escribe tus datos</string>
+    <string name="txtEditarPhoneUsuario">Agrega tu teléfono</string>
+    <!--
+
+  <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                app:boxBackgroundMode="outline"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                app:boxCornerRadiusTopEnd="10dp"
+                app:boxCornerRadiusBottomEnd="10dp"
+                app:boxCornerRadiusTopStart="10dp"
+                app:boxCornerRadiusBottomStart="10dp"
+                app:helperText="@string/txtNacimiento"
+                app:helperTextEnabled="false"
+                app:counterEnabled="true"
+                app:counterMaxLength="250"
+                app:endIconMode="clear_text"
+                app:startIconDrawable="@drawable/ic_baseline_person_pin_24"
+                >
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/editRegisNac"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/txtNacimiento"
+                    android:inputType="date" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+-->
+</resources>

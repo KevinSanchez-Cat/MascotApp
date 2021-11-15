@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@android:anim/slide_in_left"
+    android:animationOrder="normal"
+    android:delay="30%"
+
+    />
+<!--
+android:animation="@anim/item_fall_down"
+android:animation="@anim/fade_transition"
+  android:animation="@android:anim/fade_in"
+    android:animation="@android:anim/slide_in_left"
+
+    android:delay="50%"
+-->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.programacion.fragments.ui.inicio.InicioFragment"
+        android:label="@string/menu_inicio"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_veterinarios"
+        android:name="com.programacion.fragments.ui.veterinarios.VeterinarioFragment"
+        android:label="@string/menu_veterinarios"
+        tools:layout="@layout/veterinario_fragment" />
+
+    <fragment
+        android:id="@+id/nav_cuenta"
+        android:name="com.programacion.fragments.ui.cuenta.CuentaFragment"
+        android:label="@string/menu_cuenta"
+        tools:layout="@layout/fragment_cuenta" />
+
+    <fragment
+        android:id="@+id/nav_registrar"
+        android:name="com.programacion.fragments.ui.registrar.RegistrarFragment"
+        android:label="@string/menu_registrar"
+        tools:layout="@layout/fragment_registrar" />
+
+    <fragment
+        android:id="@+id/nav_editar"
+        android:name="com.programacion.fragments.ui.editar.EditarFragment"
+        android:label="@string/menu_editar"
+        tools:layout="@layout/fragment_editar" />
+
+    <fragment
+        android:id="@+id/nav_eliminar"
+        android:name="com.programacion.fragments.ui.eliminar.EliminarFragment"
+        android:label="@string/menu_eliminar"
+        tools:layout="@layout/fragment_eliminar" />
+
+    <fragment
+        android:id="@+id/nav_busqueda"
+        android:name="com.programacion.fragments.ui.busqueda.BusquedaFragment"
+        android:label="@string/menu_buscar"
+        tools:layout="@layout/fragment_busqueda" />
+    <fragment
+        android:id="@+id/nav_acerca"
+        android:name="com.programacion.fragments.ui.acerca.AcercaFragment"
+        android:label="@string/menu_acerca"
+        tools:layout="@layout/fragment_acerca" />
+
+
+    <fragment
+        android:id="@+id/nav_consultar"
+        android:name="com.programacion.fragments.ui.consultar.ConsultarFragment"
+        android:label="@string/menu_consultar"
+        tools:layout="@layout/fragment_buscar" />
+
+    <fragment
+        android:id="@+id/nav_papelera"
+        android:name="com.programacion.fragments.ui.papelera.PapeleraFragment"
+        android:label="@string/menu_papelera"
+        tools:layout="@layout/fragment_papelera" />
+</navigation>

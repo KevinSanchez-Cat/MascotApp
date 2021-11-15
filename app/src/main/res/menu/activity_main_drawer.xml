@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/home_pets"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_registrar"
+            android:icon="@drawable/pet_add_512"
+            android:title="@string/menu_registrar" />
+        <item
+            android:id="@+id/nav_editar"
+            android:icon="@drawable/pet_update_color"
+            android:title="@string/menu_editar" />
+        <item
+            android:id="@+id/nav_busqueda"
+            android:icon="@drawable/pawprint"
+            android:title="@string/menu_buscar" />
+        <item
+            android:id="@+id/nav_eliminar"
+            android:icon="@drawable/no_pets"
+            android:title="@string/menu_eliminar" />
+        <item
+            android:id="@+id/nav_consultar"
+            android:icon="@drawable/pawprints_512"
+            android:title="@string/menu_consultar" />
+
+    </group>
+    <group android:id="@+id/gr2">
+        <item   android:id="@+id/nav_papelera"
+            android:icon="@drawable/ic_baseline_delete_sweep_16"
+            android:title="@string/menu_papelera"
+            />
+        <item
+            android:id="@+id/nav_veterinarios"
+            android:icon="@drawable/ic_baseline_group_add_24"
+            android:title="@string/menu_veterinarios" />
+        <item
+            android:id="@+id/nav_acerca"
+            android:icon="@drawable/ic_baseline_groups_24"
+            android:title="@string/menu_acerca" />
+        <item
+            android:id="@+id/nav_cuenta"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/menu_cuenta" />
+    </group>
+</menu>
